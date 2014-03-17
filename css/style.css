@@ -58,14 +58,10 @@ table {
     clear: both;
 }
 
-header, footer {
-	border: 1px solid #000;
-}
-
 
 /* header styles */
 header {
-	padding: 20px;
+	padding: 15px;
 }
 header h1 {
 	float: left;
@@ -98,16 +94,24 @@ body
 	font-family: sans-serif, arial, serif;
 }
 
+body div {
+	padding: 15px;
+}
+
 h1
 { 
 	font-weight: bold;
 	font-size: 36px; 
 }
 
+h2
+{ 
+	font-weight: bold;
+}
 
 /*Footer Styles */
 footer {
-	padding: 20px;
+	padding: 15px;
 }
 
 footer nav li{

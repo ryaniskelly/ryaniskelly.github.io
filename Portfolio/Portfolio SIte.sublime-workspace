@@ -8,26 +8,21 @@
 	"buffers":
 	[
 		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 1422,
-				"line_ending": "Windows"
-			}
-		},
-		{
+			"contents": "<!DOCTYPE html>\n<html>\n	<head>\n		<title>My Kickass Portfolio Site</title>\n		<meta charset= \"utf-8\">\n		<link rel=\"stylesheet\" type=\"text/css\" href=\"css/style.css\">\n	</head>\n\n	<body>\n		<!-- begin: header -->\n		<header class=\"clear\">\n			<h1>Ryan Kelly</h1>\n			<nav>\n				<ul>\n					<li></li>\n					<li></li>\n					<li></li>\n				</ul>\n			</nav>\n		</header>\n		<!-- end: header -->\n\n		<!-- begin: main -->\n		<div class=\"main\">\n			<h2 class=\"align-left\">About Me:</h2></br>\n			<p>Born and raised in South Florida. Moved to Boston because I was sick of sunshine. </br>Attended BU Law, where I learned from day one to forecast every conceivable thing</br>that can go wrong for a client, then protect against it. Yeah, attorneys tend to be a</br> pessimistic group, and I was never comfortable with that notion. What attracted me</br>to startups is the need to not only be optimistic and embrace risk, but to believe that </br>the impossible can be done.</p>\n		</div>\n		<!-- end: main -->\n\n		<!-- begin: footer -->\n		<footer>\n			<nav>\n				<ul class=\"clear\">\n					<li><a href=\"http://www.linkedin.com/in/ryanpaulkelly\" target=\"_blank\"><img src=\"Images/linkedin.png\"></a></li>\n					<li><a href=\"https://twitter.com/RyanIsKelly\" target=\"_blank\"><img src=\"Images/twitter-bird.png\"></a></li>\n					<li><a href=\"http://www.ryaniskelly.com/\" target=\"_blank\"><img src=\"Images/blogger2.png\"></a></li>\n				</ul>\n			</nav>\n		</footer>\n		<!-- end: footer -->\n\n	</body>\n</html>",
 			"file": "/C/Users/Angelina/Documents/GitHub/ryaniskelly.github.io/index.html",
+			"file_size": 1508,
+			"file_write_time": 130395596472153004,
 			"settings":
 			{
-				"buffer_size": 1422,
+				"buffer_size": 1449,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "CSS/styles.css",
+			"file": "/C/Users/Angelina/Documents/GitHub/ryaniskelly.github.io/css/style.css",
 			"settings":
 			{
-				"buffer_size": 1929,
+				"buffer_size": 1942,
 				"line_ending": "Windows"
 			}
 		}
@@ -64,8 +59,10 @@
 	},
 	"file_history":
 	[
-		"/C/Users/Angelina/Documents/GitHub/ryaniskelly.github.io/Portfolio/CSS/styleset.css",
+		"/C/Users/Angelina/Documents/GitHub/ryaniskelly.github.io/Portfolio/CSS/styles.css",
+		"/C/Users/Angelina/Documents/GitHub/ryaniskelly.github.io/Portfolio/index.html",
 		"/C/Users/Angelina/Documents/GitHub/ryaniskelly.github.io/index.html",
+		"/C/Users/Angelina/Documents/GitHub/ryaniskelly.github.io/Portfolio/CSS/styleset.css",
 		"/C/Users/Angelina/Documents/GitHub/ryaniskelly.github.io/portfolio",
 		"/C/Users/Angelina/Documents/GitHub/rkelly05.github.io/index.html"
 	],
@@ -102,23 +99,23 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "/C/Users/Angelina/Documents/GitHub/ryaniskelly.github.io/index.html",
 					"settings":
 					{
-						"buffer_size": 1422,
+						"buffer_size": 1449,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								732,
-								733
+								443,
+								443
 							]
 						],
 						"settings":
@@ -127,52 +124,25 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 405.0,
+						"translation.y": 90.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/C/Users/Angelina/Documents/GitHub/ryaniskelly.github.io/index.html",
+					"file": "/C/Users/Angelina/Documents/GitHub/ryaniskelly.github.io/css/style.css",
 					"settings":
 					{
-						"buffer_size": 1422,
+						"buffer_size": 1942,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 315.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "CSS/styles.css",
-					"settings":
-					{
-						"buffer_size": 1929,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1828,
-								1828
+								1842,
+								1842
 							]
 						],
 						"settings":
@@ -181,7 +151,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 765.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
