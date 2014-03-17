@@ -16,6 +16,14 @@
 			}
 		},
 		{
+			"file": "/C/Users/Angelina/Documents/GitHub/ryaniskelly.github.io/index.html",
+			"settings":
+			{
+				"buffer_size": 1422,
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "CSS/styles.css",
 			"settings":
 			{
@@ -119,13 +127,40 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 135.0,
+						"translation.y": 405.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
+					"file": "/C/Users/Angelina/Documents/GitHub/ryaniskelly.github.io/index.html",
+					"settings":
+					{
+						"buffer_size": 1422,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
 					"file": "CSS/styles.css",
 					"settings":
 					{
